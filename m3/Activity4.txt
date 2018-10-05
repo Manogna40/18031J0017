@@ -1,0 +1,6 @@
+1.N
+2.1
+3. Infinite 
+4.N^2
+5.Infinite if j==1 then output =N log N
+6.N

@@ -1,0 +1,134 @@
+Quick-find														
+														
+index		0	1	2	3	4	5	6	7	8	9			
+value		0	1	2	3	4	5	6	7	8	9			
+														
+"union(9,0)"														
+index		0	1	2	3	4	5	6	7	8	9			
+value		0	1	2	3	4	5	6	7	8	0			
+														
+														
+"union(3,4)"														
+index		0	1	2	3	4	5	6	7	8	9			
+value		0	1	2	4	4	5	6	7	8	0			
+														
+														
+"union(5,8)"														
+index		0	1	2	3	4	5	6	7	8	9			
+value		0	1	2	4	4	8	6	7	8	0			
+														
+														
+"union(7,2)"														
+index		0	1	2	3	4	5	6	7	8	9			
+value		0	1	2	4	4	8	6	2	8	0			
+														
+														
+"union(2,1)"														
+index		0	1	2	3	4	5	6	7	8	9			
+value		0	1	1	4	4	8	6	1	8	0			
+														
+														
+"union(5,7)"														
+index		0	1	2	3	4	5	6	7	8	9			
+value		0	1	1	4	4	1	6	1	1	0			
+														
+														
+"union(0,3)"														
+index		0	1	2	3	4	5	6	7	8	9			
+value		4	1	1	4	4	1	6	1	1	4			
+														
+														
+"union(4,2)"														
+index		0	1	2	3	4	5	6	7	8	9			
+value		1	1	1	1	1	1	6	1	1	1			
+														
+														
+Quick-union														
+														
+index		0	1	2	3	4	5	6	7	8	9			
+value		0	1	2	3	4	5	6	7	8	9			
+														
+"union(9,0)"														
+index		0	1	2	3	4	5	6	7	8	9			
+value		0	1	2	3	4	5	6	7	8	0			
+														
+														
+"union(3,4)"														
+index		0	1	2	3	4	5	6	7	8	9			
+value		0	1	2	4	4	5	6	7	8	0			
+														
+														
+"union(5,8)"														
+index		0	1	2	3	4	5	6	7	8	9			
+value		0	1	2	4	4	8	6	7	8	0			
+														
+														
+"union(7,2)"														
+index		0	1	2	3	4	5	6	7	8	9			
+value		0	1	2	4	4	8	6	2	8	0			
+														
+														
+"union(2,1)"														
+index		0	1	2	3	4	5	6	7	8	9			
+value		0	1	1	4	4	8	6	2	8	0			
+														
+														
+"union(5,7)"														
+index		0	1	2	3	4	5	6	7	8	9			
+value		0	1	1	4	4	8	6	2	1	0			
+														
+														
+"union(0,3)"														
+index		0	1	2	3	4	5	6	7	8	9			
+value		4	1	1	4	4	8	6	2	1	0			
+														
+														
+"union(4,2)"														
+index		0	1	2	3	4	5	6	7	8	9			
+value		4	1	1	4	1	8	6	2	1	0			
+														
+														
+														
+Weighted Quick-union														
+														
+index		0	1	2	3	4	5	6	7	8	9			
+value		0	1	2	3	4	5	6	7	8	9			
+														
+"union(9,0)"														
+index		0	1	2	3	4	5	6	7	8	9			
+value		0	1	2	3	4	5	6	7	8	0			
+														
+														
+"union(3,4)"														
+index		0	1	2	3	4	5	6	7	8	9			
+value		0	1	2	4	4	5	6	7	8	0			
+														
+														
+"union(5,8)"														
+index		0	1	2	3	4	5	6	7	8	9			
+value		0	1	2	4	4	8	6	7	8	0			
+														
+														
+"union(7,2)"														
+index		0	1	2	3	4	5	6	7	8	9			
+value		0	1	2	4	4	8	6	2	8	0			
+														
+														
+"union(2,1)"														
+index		0	1	2	3	4	5	6	7	8	9			
+value		0	2	2	4	4	8	6	2	8	0			
+														
+														
+"union(5,7)"														
+index		0	1	2	3	4	5	6	7	8	9			
+value		0	2	2	4	4	8	6	2	2	0			
+														
+														
+"union(0,3)"														
+index		0	1	2	3	4	5	6	7	8	9			
+value		4	2	2	4	4	8	6	2	2	0			
+														
+														
+"union(4,2)"														
+index		0	1	2	3	4	5	6	7	8	9			
+value		4	2	2	4	2	8	6	2	2	0			
